@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="436f327d-c36d-485a-a6ab-de3f71733539" name="Changes" comment="Debugged Error in Delete">
+      <change beforePath="$PROJECT_DIR$/course_reviews.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/course_reviews.sqlite" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="course_review_scene" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fjynhGbDi1GdBtRvd2yb25Nokn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/CS3140/hw5-busroute-msw3jg-fvn2qq-sdx3xe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;sqlite&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Application.ReviewApplication">
+    <configuration name="CourseRev" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.virginia.sde.reviews.CourseRev" />
+      <module name="hw6-starter-repo.main" />
+      <option name="VM_PARAMETERS" value="--module-path C:\CS3140\javafx-sdk-21.0.3\lib --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFXProject" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="edu.virginia.sde.reviews.HelloWorldApplication" />
+      <module name="hw6-starter-repo" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\CS3140\javafx-sdk-21.0.3\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.virginia.sde.reviews.ReviewsApplication" />
+      <module name="hw6-starter-repo.main" />
+      <option name="VM_PARAMETERS" value="--module-path C:\CS3140\javafx-sdk-21.0.3\lib --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CourseRev" />
+      <item itemvalue="Application.JavaFXProject" />
+      <item itemvalue="Application.ReviewApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="436f327d-c36d-485a-a6ab-de3f71733539" name="Changes" comment="" />
+      <created>1714328949687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714328949687</updated>
+      <workItem from="1714328951044" duration="10068000" />
+      <workItem from="1714484202114" duration="1048000" />
+      <workItem from="1714500196948" duration="126000" />
+      <workItem from="1714872423812" duration="12437000" />
+      <workItem from="1714955524924" duration="3013000" />
+      <workItem from="1715025123718" duration="915000" />
+      <workItem from="1715047255663" duration="755000" />
+      <workItem from="1715120283718" duration="288000" />
+      <workItem from="1715130709304" duration="17234000" />
+      <workItem from="1715148295711" duration="239000" />
+      <workItem from="1715186533264" duration="57000" />
+      <workItem from="1715211076957" duration="12717000" />
+      <workItem from="1715276837135" duration="1555000" />
+      <workItem from="1715306229445" duration="510000" />
+      <workItem from="1715306794822" duration="467000" />
+      <workItem from="1715309205168" duration="415000" />
+      <workItem from="1715771568347" duration="175000" />
+      <workItem from="1716193298985" duration="52000" />
+      <workItem from="1716278688774" duration="216000" />
+      <workItem from="1716880324475" duration="17000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created Tables, Review, FXML for cours Review">
+      <option name="closed" value="true" />
+      <created>1714883821256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714883821256</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated Code for controller">
+      <option name="closed" value="true" />
+      <created>1714884870634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714884870634</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated identifier">
+      <option name="closed" value="true" />
+      <created>1715049937224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715049937224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update review controller">
+      <option name="closed" value="true" />
+      <created>1715136486940</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715136486940</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Review class">
+      <option name="closed" value="true" />
+      <created>1715140343565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715140343565</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Review Functionality to Controller and DatabaseDriver.">
+      <option name="closed" value="true" />
+      <created>1715148211800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715148211800</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Review Functionality to Controller and DatabaseDriver.">
+      <option name="closed" value="true" />
+      <created>1715148218760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715148218760</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added back functionality">
+      <option name="closed" value="true" />
+      <created>1715148524157</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715148524157</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Debugged Errors">
+      <option name="closed" value="true" />
+      <created>1715218719557</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715218719557</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added data table functionality">
+      <option name="closed" value="true" />
+      <created>1715219147743</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715219147743</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Changed sizes and Rating limitation">
+      <option name="closed" value="true" />
+      <created>1715223151913</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715223151913</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Debugged Error in Delete">
+      <option name="closed" value="true" />
+      <created>1715278330974</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715278330974</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Tables, Review, FXML for cours Review" />
+    <MESSAGE value="Updated Code for controller" />
+    <MESSAGE value="updated identifier" />
+    <MESSAGE value="update review controller" />
+    <MESSAGE value="Added Review class" />
+    <MESSAGE value="Added Review Functionality to Controller and DatabaseDriver." />
+    <MESSAGE value="added back functionality" />
+    <MESSAGE value="Debugged Errors" />
+    <MESSAGE value="Added data table functionality" />
+    <MESSAGE value="Changed sizes and Rating limitation" />
+    <MESSAGE value="Debugged Error in Delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debugged Error in Delete" />
+  </component>
+</project>
