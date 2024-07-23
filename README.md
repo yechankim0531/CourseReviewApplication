@@ -2,7 +2,7 @@
 
 This application allows users to log in, select courses, review courses, and view their own reviews. Below are the instructions and descriptions for each page in the application.
 
-## Screenshots
+## Description
 
 1. **Login Page**
   
