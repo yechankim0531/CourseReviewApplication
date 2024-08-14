@@ -28,7 +28,8 @@ This application allows users to log in, select courses, review courses, and vie
    - Users can also edit or delete their existing reviews.
 
 4. **My Reviews Page**
-  
+  ![Screenshot 2024-07-10 232010](https://github.com/user-attachments/assets/a030b4bd-872a-4a56-b9b0-43aa730d1c50)
+
    - Users can view all their reviews on this page.
    - The page displays a table of all courses reviewed by the user, along with the subject, number, and rating of each course.
 
